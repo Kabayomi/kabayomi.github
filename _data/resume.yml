@@ -82,12 +82,11 @@ skills:
       - "Pandas"
       - "Matplotlib"
       - "Sci-kit Learn"
-  - name: "Compression"
+  - name: "Research"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Methodology"
+      - "Techniques"
 languages:
   - language: "English" 
     fluency: "Native speaker" 

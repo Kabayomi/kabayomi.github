@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the category's page.
-title: Digitalisation
+title: oilgas
 
 # The name of the category, used in a post's front matter (e.g. category: <slug>).
-slug: digitalisation
+slug: oilgas
 
 # (Optional) Write a short (~150 characters) description of this featured category.
 description: >
-  Posts related to the wider topic of digitalisation including field experiences (start-ups), education, and security.
+  Posts related to the topics of the Oil and Gas Industry
 
 # Setting `menu` will generate an entry in the sidebar for this category.
 # menu: true
