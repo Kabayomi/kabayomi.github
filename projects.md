@@ -3,5 +3,5 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  This is a demo of the `projects` layout, which is included in the PRO version of Hydejack.
+  Welcome to my projects. Here i provide a shrt description of what i'm working and a link to the GitHub Repository. I always look forward to collaborating on interesting projects :) 
 ---

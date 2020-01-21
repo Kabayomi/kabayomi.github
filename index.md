@@ -4,12 +4,14 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 
-# Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+# Hello World!
+Hi, I'm Abayomi Koyejo. Engineer by day and Coder at night. 
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Welcome to my website! I started this to share my thoughts, passion and encounters to a wider audience. Here you will find posts on various diverse topics and also projects I worked on. 
+
+I have a background in Engineering but I'm interested in everything - art, technology, data science, project management, traveling etc. In my free time, you can find me cuddled up warmly with a book or kindle by myside or on my computer soaking in the knowledge the internet has to offer.
+
+I love collaborating with people so if you have an idea of something fun we can do together. Do get in touch!
 
 ## First Steps
 Please start by reading the [Documentation]{:.heading.flip-title}.
